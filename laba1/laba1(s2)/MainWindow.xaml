@@ -1,0 +1,31 @@
+﻿<Window x:Class="laba1_s2_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:laba1_s2_"
+        mc:Ignorable="d"
+        Title="Главная страница" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,3.6,1" Background="#FF399CD6">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Button1" Content="СЧИТЫВАНИЕ ИНФОРМАЦИИ" HorizontalAlignment="Left" Height="61" Margin="121,126,0,0" VerticalAlignment="Top" Width="236" FontSize="16" FontFamily="Source Sans Pro Black" Background="#FF0D56DD" Click="Button1_Click"/>
+        <Button x:Name="Button3" Content="КАЛЬКУЛЯТОР" HorizontalAlignment="Left" Height="61" Margin="419,126,0,0" VerticalAlignment="Top" Width="236" FontFamily="Source Code Pro Black" FontSize="16" Background="#FF0D56DD" Click="Button3_Click"/>
+        <Button x:Name="Button2" Content="КРЕСТИКИ-НОЛИКИ" HorizontalAlignment="Left" Height="61" Margin="121,217,0,0" VerticalAlignment="Top" Width="236" FontFamily="Source Code Pro Black" FontSize="16" Background="#FF0D56DD" Click="Button2_Click"/>
+        <Button x:Name="Button4" Content="ИНФОРМАЦИЯ" HorizontalAlignment="Left" Height="61" Margin="419,217,0,0" VerticalAlignment="Top" Width="236" FontFamily="Source Code Pro Black" FontSize="16" Background="#FF0D56DD" Click="Button4_Click"/>
+        <Label Content=" Добро пожаловать!&#xD;&#xA;" HorizontalAlignment="Center" Height="82" Margin="122,22,135.4,0" VerticalAlignment="Top" Width="533" FontFamily="Source Code Pro Black" FontSize="48" Opacity="0.99" Background="#FF39A0D6" Foreground="Black" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.274"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="1.195"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button Content="ВЫХОД" HorizontalAlignment="Left" Height="60" Margin="270,308,0,0" VerticalAlignment="Top" Width="244" Click="Button_Click" Background="#FF0D56DD" FontFamily="Source Code Pro Black" FontSize="14"/>
+
+    </Grid>
+</Window>
+
