@@ -1,0 +1,30 @@
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\bin\Debug\laba1(s2).exe.config
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\bin\Debug\laba1(s2).exe
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\bin\Debug\laba1(s2).pdb
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\laba1(s2).csproj.AssemblyReference.cache
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\MainWindow.g.cs
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\App.g.cs
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\laba1(s2)_MarkupCompile.cache
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\laba1(s2)_MarkupCompile.lref
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\MainWindow.baml
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\laba1(s2).g.resources
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\laba1_s2_.Properties.Resources.resources
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\laba1(s2).csproj.GenerateResource.cache
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\laba1(s2).csproj.CoreCompileInputs.cache
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\laba1(s2).exe
+C:\Users\Микита\source\repos\laba1(s2)\laba1(s2)\obj\Debug\laba1(s2).pdb
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\bin\Debug\laba1(s2).exe.config
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\bin\Debug\laba1(s2).exe
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\bin\Debug\laba1(s2).pdb
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\laba1(s2).csproj.AssemblyReference.cache
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\MainWindow.g.cs
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\App.g.cs
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\laba1(s2)_MarkupCompile.cache
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\laba1(s2)_MarkupCompile.lref
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\MainWindow.baml
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\laba1(s2).g.resources
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\laba1_s2_.Properties.Resources.resources
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\laba1(s2).csproj.GenerateResource.cache
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\laba1(s2).csproj.CoreCompileInputs.cache
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\laba1(s2).exe
+C:\Users\Микита\OneDrive\Рабочий стол\00\Lb2\laba1(s2)\obj\Debug\laba1(s2).pdb
