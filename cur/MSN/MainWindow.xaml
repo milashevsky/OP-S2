@@ -1,0 +1,17 @@
+﻿<Window x:Class="MSN.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MSN"
+        mc:Ignorable="d"
+        Title="ГОЛОВНА СТОРІНКА" Height="450" Width="800">
+    <Grid Background="#FF008CFF">
+        <Button Content="ВИХІД" HorizontalAlignment="Left" Height="41" Margin="288,326,0,0" VerticalAlignment="Top" Width="226" Click="Button_Click" FontFamily="Impact" FontSize="20" Background="#FF3A25FF" BorderBrush="White" Foreground="White"/>
+        <Label Content="Бронюйте квитки на матчі УПЛ&#xD;&#xA;Зручний перегляд результатів матчів&#xD;&#xA;Інформація про клуби(гравці, заявки на матч, данні про клуби)" HorizontalAlignment="Left" Height="111" Margin="40,81,0,0" VerticalAlignment="Top" Width="674" FontFamily="Impact" FontSize="22" Foreground="White"/>
+        <Label Content="FOOTSCORE - ваш футбольний додаток" HorizontalAlignment="Left" Height="57" Margin="87,9,0,0" VerticalAlignment="Top" Width="607" FontFamily="Impact" FontSize="36" Foreground="White"/>
+        <Button Content="РОЗКЛАД МАТЧІВ" HorizontalAlignment="Left" Height="48" Margin="129,237,0,0" VerticalAlignment="Top" Width="213" Click="Button_Click_1" FontFamily="Impact" FontSize="20" Background="#FF3A25FF" BorderBrush="White" Foreground="White"/>
+        <Button Content="БРОНЮВАННЯ КВИТКІВ" HorizontalAlignment="Left" Height="48" Margin="457,237,0,0" VerticalAlignment="Top" Width="213" FontFamily="Impact" FontSize="20" Background="#FF3A25FF" BorderBrush="White" Foreground="White" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>
