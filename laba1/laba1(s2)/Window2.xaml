@@ -43,6 +43,6 @@
             <Button Content="НОВАЯ ИГРА" HorizontalAlignment="Left" Height="40" Margin="504,239,0,0" VerticalAlignment="Top" Width="185" Click="Button_Click" FontFamily="Source Code Pro Black" FontSize="16" Background="#FF112ADF" />
             <Label Content="КРЕСТИКИ-НОЛИКИ" HorizontalAlignment="Left" Height="43" Margin="458,97,0,0" VerticalAlignment="Top" Width="284" FontFamily="Source Code Pro Black" FontSize="30"/>
         </Grid>
-        <TextBlock x:Name="WinScreen" VerticalAlignment="Center" FontSize="56" FontWeight="Bold" Background="WhiteSmoke" Visibility="Collapsed" >Игрок Х выиграл!!!</TextBlock>
+        <TextBlock x:Name="WinScreen" VerticalAlignment="Center" TextAlignment="Center" FontSize="56" FontWeight="Bold" Background="WhiteSmoke" Visibility="Collapsed" >Игрок Х выиграл!!!</TextBlock>
     </Grid>
 </Window>
